@@ -1,3 +1,7 @@
+## IDE files
+.vscode/
+cmake-build-release/
+cmake-build-debug/
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
